@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Django**
 - 👨‍💻 All of my projects are available at: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)
 - 💬 Ask me about: **Python, AWS**
 - 📫 Reach me at: **akshatswami0610@gmail.com**
