@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Python developer from India</h3>
 
 <p align="center">
-  <img src="https://photos.app.goo.gl/nngP8RLRTuWfPTCF8 alt="Coding with Coffee in Nature" width="400"/>
+  <img width="1536" height="1024" alt="laptop-mountains-coffee png" src="https://github.com/user-attachments/assets/138e7038-daf4-497f-9518-9e5d0cd8f5fc" />
+
 </p>
 
 
