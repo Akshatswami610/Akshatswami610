@@ -10,9 +10,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **FastAPI**
 - 👨‍💻 All of my projects are available at: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)
-- 💬 Ask me about: **Python, AWS**
+- 💬 Ask me about: **Python, Django, Flask, SQL, AWS**
 - 📫 Reach me at: **akshatswami0610@gmail.com**
 - 📄 Know about my experiences: [View Resume](https://tinyurl.com/Akshatswamicv)
 
