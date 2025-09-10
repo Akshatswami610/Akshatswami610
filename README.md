@@ -11,9 +11,9 @@
 
 ---
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **WebSockets**
 - 👨‍💻 All of my projects are available at: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)
-- 💬 Ask me about: **Python, Django, Flask, SQL, AWS, MongoDB**
+- 💬 Ask me about: **Python, Django, Flask, SQL, AWS, MongoDB, PostgreSQL**
 - 📫 Reach me at: **akshatswami0610@gmail.com**
 - 📄 Know about my experiences: [View Resume](https://tinyurl.com/Akshatswamicv)
 
