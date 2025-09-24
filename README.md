@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer from India</h3>
 
 <p align="center">
-  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/50bcfdc2-ff94-4023-868a-ef2718eaba9e" />
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/50bcfdc2-ff94-4023-868a-ef2718eaba9e" />
 
 
 </p>
