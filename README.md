@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Swami</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="center">
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/50bcfdc2-ff94-4023-868a-ef2718eaba9e" />
-
-
-</p>
-
-
 
 ---
 
