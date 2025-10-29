@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Everything**
 - 👨‍💻 All of my projects are available at: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)
-- 💬 Ask me about: **Python, Django, Flask, SQL, AWS, MongoDB, PostgreSQL, DRF**
+- 💬 Ask me about: **Python, Django, Flask, SQL, AWS, MongoDB, PostgreSQL, DRF, API**
 - 📫 Reach me at: **akshatswami0610@gmail.com**
 - 📄 Know about my experiences: [View Resume](https://tinyurl.com/Akshatswamicv)
 
