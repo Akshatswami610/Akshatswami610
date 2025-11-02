@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)
 - 💬 Ask me about: **Python, Django, Flask, SQL, AWS, MongoDB, PostgreSQL, DRF, API**
 - 📫 Reach me at: **akshatswami0610@gmail.com**
-- 📄 Know about my experiences: [View Resume](https://tinyurl.com/Akshatswamicv)
+- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1zLE_Ozae3Z_FaAawB8pvHdDXT1YDBXn3/view?usp=sharing)
 
 ---
 
