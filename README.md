@@ -57,16 +57,6 @@
 
 ---
 
-### 🏗️ Featured Projects
-- 🔹 [Ask – Real-Time Doubt Sharing Platform](https://github.com/Akshatswami610/Ask)
-  - Django • WebSockets • PostgreSQL • Real-time chat, leaderboard, tagging  
-- 🔹 [Blog Page – Django Blog Web App](https://github.com/Akshatswami610/Blog-website)
-  - Django • HTML • CSS • JS • AWS S3 • Render  
-- 🔹 [FastNotes – Notes App using FastAPI](https://github.com/Akshatswami610/Notes-app-using-FastAPI)
-  - FastAPI • MongoDB • CRUD APIs • Jinja2 • Render  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatswami610&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
