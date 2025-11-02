@@ -13,9 +13,7 @@
 - 💡 Passionate about building **scalable, API-driven backend systems** and deploying them on **AWS & Render**  
 - 🧠 Currently learning **Docker, CI/CD, and System Design**  
 - 💬 Ask me about: **Python, Django, FastAPI, Flask, DRF, PostgreSQL, MongoDB, REST APIs, AWS**  
-- 👨‍💻 My Projects: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)  
-- 📫 Reach me at: **akshatswami0610@gmail.com**  
-- 📄 [**View My Resume**](https://drive.google.com/file/d/1zLE_Ozae3Z_FaAawB8pvHdDXT1YDBXn3/view?usp=sharing)  
+- 👨‍💻 My Portfolio: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)   
 - ⚡ Fun fact: I use **AI tools** to generate frontends while I specialize in **backend logic** 😎  
 
 ---
