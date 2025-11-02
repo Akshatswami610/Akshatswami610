@@ -60,7 +60,7 @@
 ---
 
 ### 🏆 Achievements & Certifications
-- 🥇 **Python Developer – Infosys Springboard (2025)**  
+- 🥇 **Python Developer Intern – Infosys Springboard (2025)**  
 - ☁️ Hands-on experience with **AWS S3, IAM, and RDS** deployments  
 - 💻 Open-source contributor and backend enthusiast  
 
