@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Akshat Swami  
-### 🚀 Python Backend Developer | Django • FastAPI • Flask • AWS • PostgreSQL  
+### 🚀 Python Developer | Django • FastAPI • Flask • AWS • PostgreSQL  
 
 </div>
 
