@@ -23,8 +23,6 @@
   <a href="https://linkedin.com/in/akshatswami" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/></a>
   <a href="https://twitter.com/akshatswami_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/></a>
   <a href="https://instagram.com/akshatswami_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/></a>
-  <a href="https://www.hackerrank.com/akshatswami0610" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="45" alt="HackerRank"/></a>
-  <a href="https://leetcode.com/akshatswami_" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45" alt="LeetCode"/></a>
 </p>
 
 ---
