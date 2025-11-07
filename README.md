@@ -49,9 +49,10 @@
 
 <p align="center">
   <a href="https://github.com/akshatswami610">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatswami610&theme=tokyonight" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=akshatswami610&theme=tokyonight" alt="GitHub Streak Stats" />
   </a>
 </p>
+
 
 ---
 
