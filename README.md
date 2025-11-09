@@ -14,7 +14,7 @@
 - 🧠 Currently learning **Docker, CI/CD, and System Design**  
 - 💬 Ask me about: **Python, Django, FastAPI, Flask, DRF, PostgreSQL, MongoDB, REST APIs, AWS**  
 - 👨‍💻 My Portfolio: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)   
-- ⚡ Fun fact: I use **AI tools** to generate frontends while I specialize in **backend logic** 😎  
+- ⚡ Fun fact: I use **AI tools** to generate frontends while I specialize in **backend logic**   
 
 ---
 
