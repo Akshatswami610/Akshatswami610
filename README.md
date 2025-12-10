@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **B.Tech in Computer Science & Engineering** — Lovely Professional University (CGPA: 7.36)  
-- 💼 **Python Developer Intern at Infosys Springboard**  
+- 💼 **Ex Python Developer Intern at Infosys Springboard**  
 - 💡 Passionate about building **scalable, API-driven backend systems** and deploying them on **AWS & Render**  
 - 🧠 Currently learning **Docker, GenAI**  
 - 💬 Ask me about: **Python, Django, FastAPI, Flask, DRF, PostgreSQL, MongoDB, REST APIs, AWS**  
