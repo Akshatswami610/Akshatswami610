@@ -11,7 +11,7 @@
 - 🎓 **B.Tech in Computer Science & Engineering** — Lovely Professional University (CGPA: 7.36)  
 - 💼 **Ex Python Developer Intern at Infosys Springboard**  
 - 💡 Passionate about building **scalable, API-driven backend systems** and deploying them on **AWS & Render**  
-- 🧠 Currently learning **Docker, GenAI**  
+- 🧠 Currently learning **System Design**  
 - 💬 Ask me about: **Python, Django, FastAPI, Flask, DRF, PostgreSQL, MongoDB, REST APIs, AWS**  
 - 👨‍💻 My Portfolio: [akshatswamipy.vercel.app](https://akshatswamipy.vercel.app)   
 - ⚡ Fun fact: I use **AI tools** to generate frontends while I specialize in **backend logic**   
