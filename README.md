@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **B.Tech in Computer Science & Engineering** — Lovely Professional University (CGPA: 7.48)  
+- 🎓 **B.Tech in Computer Science & Engineering** — Lovely Professional University (CGPA: 7.51)  
 - 💼 **Ex Python Developer Intern at Infosys Springboard**  
 - 💡 Passionate about building **scalable, API-driven backend systems** and deploying them on **AWS & Render**  
 - 🧠 Currently learning **System Design**  
