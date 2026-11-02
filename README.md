@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Akshat%20Swami&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Django%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Flask%20%E2%80%A2%20AWS&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Akshat%20Swami&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Flask%20%E2%80%A2%20AWS&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/akshatswami" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/akshatswami_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **B.Tech in Computer Science & Engineering** — Lovely Professional University *(CGPA: 7.54)*
-- 💼 Ex **Developer Intern** at **Infosys Springboard**
+- 💼 Ex **Python Developer Intern** at **Infosys Springboard**
 - 💡 Passionate about building **scalable, API-driven backend systems** and deploying them on **AWS & Render**
 - 🧠 Currently learning **System Design**
 - 💬 Ask me about **Python, Django, FastAPI, Flask, DRF, PostgreSQL, MongoDB, REST APIs, AWS**
